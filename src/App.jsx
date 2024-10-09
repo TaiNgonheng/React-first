@@ -23,7 +23,8 @@ export default function App() {
 function Message() {
   return (
     <p>
-      you have read <strong>{count}</strong>piece of.
+      you have read <strong>{count}</strong>pieces of
+      advicesssssssssssssssssssssssss sss.
     </p>
   );
 }
